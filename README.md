@@ -1,5 +1,5 @@
 # Hydroponic-Automation-System
-# Hydroponic_Automation
+
 Streamlit application that predicts action that has to be taken on an hydroponic system  based on stacking method(ensemble learning).
 
 ## Proposed Approach
